@@ -1,0 +1,12 @@
+D:\SqlC#\ex5-3\ex5-3\bin\Debug\ex5-3.exe.config
+D:\SqlC#\ex5-3\ex5-3\obj\Debug\ex5_2.ConnectionForm.resources
+D:\SqlC#\ex5-3\ex5-3\obj\Debug\ex5_3.Properties.Resources.resources
+D:\SqlC#\ex5-3\ex5-3\obj\Debug\ex5-3.csproj.GenerateResource.Cache
+D:\SqlC#\ex5-3\ex5-3\bin\Debug\ex5-3.exe
+D:\SqlC#\ex5-3\ex5-3\bin\Debug\ex5-3.pdb
+D:\SqlC#\ex5-3\ex5-3\obj\Debug\ex5_2.MainForm.resources
+D:\SqlC#\ex5-3\ex5-3\obj\Debug\ex5-3.exe
+D:\SqlC#\ex5-3\ex5-3\obj\Debug\ex5-3.pdb
+D:\SqlC#\ex5-3\ex5-3\obj\Debug\ex5-3.csprojResolveAssemblyReference.cache
+D:\учеба\1 маг\ЗаставнойС#\SqlC#\ex5-3\ex5-3\bin\Debug\ex5-3.exe.config
+D:\учеба\1 маг\ЗаставнойС#\SqlC#\ex5-3\ex5-3\obj\Debug\ex5-3.pdb
